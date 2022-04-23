@@ -1,5 +1,5 @@
 # control-panel
-Install Control Panel on your VPS/Dedicated Server with a single command
+Install DirectAdmin Control Panel on your VPS/Dedicated Server with a single command
 
 This Installation Script would allow any User to Install the Control Panel software on any VPS/Dedicated Server.
 
